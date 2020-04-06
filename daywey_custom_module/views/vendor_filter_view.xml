@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<odoo>
+    <data>
+        <record id="vendor_filter_product_view" model="ir.ui.view">
+            <field name="name">vendor.filter.product.view</field>
+            <field name="model">purchase.order</field>
+            <field name="arch" type="xml">
+
+            </field>
+        </record>
+    </data>
+</odoo>
