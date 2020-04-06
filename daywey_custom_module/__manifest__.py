@@ -12,6 +12,7 @@
                              'base', 'purchase', 'product'
                             ],
   "data"                 :  [
+                                'views/vendor_filter_view.xml'
   ],
   "application"          :  True,
   "installable"          :  True,
